@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"আনপিন কৰোতে পাছৱৰ্ড বিচাৰক"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"আনপিন কৰোতে পাছৱৰ্ড বিচাৰক"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"আনপিন কৰোঁতে ডিভাইচ লক কৰক"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">স্ক্ৰীণশট বাধ্য কৰক</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">সাধাৰণতে যিবোৰ এপে স্ক্ৰীণশট ব্লক কৰে, সেইবোৰত স্ক্ৰীণশট ল'বলৈ অনুমতি দিয়ক (যেনে: বেংকিং এপ, এবাৰ চোৱা মিডিয়া)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"আপুনি আপোনাৰ ই-ছিমখন মচিব বিচাৰে বুলি নিশ্চিত কৰক"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"কোনো ই-ছিম মচাৰ পূৰ্বে এইগৰাকী আপুনিয়েই বুলি সত্যাপন কৰক"</string>
     <string name="memtag_title" msgid="5096176296797727201">"উন্নত মেম’ৰী সুৰক্ষাৰ বিটা"</string>

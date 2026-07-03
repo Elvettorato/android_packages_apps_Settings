@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"અનપિન કરતા પહેલાં પિન માટે પૂછો"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"અનપિન કરતાં પહેલાં પાસવર્ડ માટે પૂછો"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"અનપિન કરતી વખતે ડિવાઇસને લૉક કરો"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">સ્ક્રીનશોટને ફરજિયાતપણે મંજૂરી આપો</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">એવી એપ્સમાં સ્ક્રીનશોટને મંજૂરી આપો જે સામાન્ય રીતે તેમને અવરોધિત કરે છે (દા.ત. બેંકિંગ એપ્સ, એક વખત જોવાનું મીડિયા)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"કન્ફર્મ કરો કે તમે તમારું ઇ-સિમ કાઢી નાખવા માગો છો"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"ઇ-સિમને કાઢી નાખતા પહેલાં ચકાસણી કરો કે આ તમે જ છો"</string>
     <string name="memtag_title" msgid="5096176296797727201">"વિગતવાર મેમરી સુરક્ષા બીટા"</string>

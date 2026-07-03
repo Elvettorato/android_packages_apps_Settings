@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"בקשת קוד גישה לפני ביטול הצמדה"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"יש לבקש סיסמה לפני ביטול הצמדה"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"נעילת המכשיר בזמן ביטול ההצמדה"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">אלץ אפשרות לצילומי מסך</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">אפשר צילומי מסך באפליקציות שחוסמות אותם בדרך כלל (למשל אפליקציות בנקאות, מדיה לצפייה חד-פעמית)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"‏מאשרים שרוצים למחוק את כרטיס ה-SIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"‏עליך לאמת את זהותך לפני מחיקה של eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"הגנת זיכרון מתקדמת בגרסת בטא"</string>

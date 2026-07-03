@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Босату алдында PIN кодын сұрау"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Босату алдында құпия сөзді сұрау"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Босатқанда құрылғыны құлыптау"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Скриншоттарды мәжбүрлеп рұқсат ету</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Әдетте скриншоттарды бұғаттайтын қолданбаларда (мысалы, банкинг қолданбалары, бір рет көру медиасы) скриншоттарға рұқсат ету</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"eSIM картасын өшіргіңіз келетінін растаңыз"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM картасын жоймас бұрын, жеке басыңызды растаңыз."</string>
     <string name="memtag_title" msgid="5096176296797727201">"Қосымша жад қорғанысының бета нұсқасы"</string>

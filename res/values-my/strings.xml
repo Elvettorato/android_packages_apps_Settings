@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"ပင်မဖြုတ်မီမှာ PIN ကို မေးရန်"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"ပင်မဖြုတ်မီမှာ စကားဝှက်ကို မေးကြည့်ရန်"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"ပင်ဖြုတ်စဉ် စက်ကို လော့ခ်ချထားရန်"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">စကရင်ရှော့များကို အတင်းအကြပ်ခွင့်ပြုပါ</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">ပုံမှန်အားဖြင့် စကရင်ရှော့များကို ပိတ်ဆို့သည့် အက်ပ်များတွင် စကရင်ရှော့များကို ခွင့်ပြုပါ (ဥပမာ ဘဏ်အက်ပ်များ၊ တစ်ကြိမ်ကြည့်ရှုနိုင်သော မီဒီယာ)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"သင့် eSIM ကို ဖျက်လိုကြောင်း အတည်ပြုရန်"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM မဖျက်မီ သင်ဖြစ်ကြောင်း အတည်ပြုပါ"</string>
     <string name="memtag_title" msgid="5096176296797727201">"အဆင့်မြင့်မှတ်ဉာဏ် အကာအကွယ် ဘီတာ"</string>

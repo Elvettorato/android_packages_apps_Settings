@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Podaj PIN, aby odpiąć"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Aby odpiąć, poproś o hasło"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Zablokuj urządzenie przy odpinaniu"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Wymuś zezwolenie na zrzuty ekranu</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Zezwalaj na zrzuty ekranu w aplikacjach, które normalnie je blokują (np. aplikacje bankowe, treści do jednorazowego wyświetlenia)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Potwierdź, że chcesz wymazać dane karty eSIM."</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Zanim wykasujesz kartę eSIM, potwierdź swoją tożsamość"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Zaawansowana ochrona pamięci (beta)"</string>

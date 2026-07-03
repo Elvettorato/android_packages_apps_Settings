@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Solicită codul PIN înainte de a anula fixarea"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Solicită parola înainte de a anula fixarea"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Blochează dispozitivul la anularea fixării"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Forțează permisiunea de capturi de ecran</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Permite capturi de ecran în aplicațiile care le blochează în mod normal (de ex. aplicații bancare, conținut multimedia cu vizualizare unică)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Confirmă că vrei să ștergi eSIM-ul"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Confirmă-ți identitatea înainte să ștergi un eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Protecția avansată a memoriei beta"</string>

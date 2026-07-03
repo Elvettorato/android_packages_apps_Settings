@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Ask for PIN before unpinning"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Ask for password before unpinning"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Lock device when unpinning"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Force allow screenshots</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Allow screenshots in apps that normally block them (e.g. banking apps, view-once media)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Confirm that you want to erase your eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Verify that it\'s you before erasing an eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Advanced memory protection beta"</string>

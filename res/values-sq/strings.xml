@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Zhgozhdimi kërkon PIN-in"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Kërko fjalëkalim para heqjes nga gozhdimi"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Kyçe pajisjen kur heq gozhdimin"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Detyro lejimin e fotografive të ekranit</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Lejo fotografi të ekranit në aplikacione që zakonisht i bllokojnë ato (p.sh. aplikacione bankare, media për shikim një herë)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Konfirmo që dëshiron ta spastrosh kartën eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Verifiko që je ti përpara se të spastrosh një kartë eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Mbrojtja e përparuar beta e memories"</string>

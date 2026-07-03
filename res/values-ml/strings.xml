@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"അൺപിൻ ചെയ്യുംമുമ്പ് പിൻ ചോദിക്കുക"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"അൺപിന്നിനുമുമ്പ് പാസ്‌വേഡ് ആവശ്യപ്പെടൂ"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"അൺപിൻ ചെയ്യുമ്പോൾ ഉപകരണം ലോക്ക് ചെയ്യുക"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">സ്ക്രീൻഷോട്ടുകൾ നിർബന്ധിച്ച് അനുവദിക്കുക</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">സാധാരണ സ്ക്രീൻഷോട്ടുകൾ തടയുന്ന ആപ്പുകളിൽ സ്ക്രീൻഷോട്ടുകൾ അനുവദിക്കുക (ഉദാ. ബാങ്കിംഗ് ആപ്പുകൾ, ഒറ്റത്തവണ കാണൽ മീഡിയ)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"ഇ-സിം മായ്‌ക്കാൻ താൽപ്പര്യപ്പെടുന്നുവെന്ന് സ്ഥിരീകരിക്കുക"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"ഇ-സിം മായ്ക്കുന്നതിന് മുമ്പ് ഇത് നിങ്ങൾ തന്നെയാണെന്ന് പരിശോധിച്ചുറപ്പിക്കുക"</string>
     <string name="memtag_title" msgid="5096176296797727201">"വിപുലമായ മെമ്മറി പരിരക്ഷ ബീറ്റ"</string>

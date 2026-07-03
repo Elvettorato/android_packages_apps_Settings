@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"আনপিন করার আগে পিন চান"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"আনপিন করার আগে পাসওয়ার্ড চান"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"আনপিন করার সময় ডিভাইস লক করুন"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">স্ক্রিনশট জোর করে অনুমতি দিন</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">যেসব অ্যাপ সাধারণত স্ক্রিনশট ব্লক করে, সেখানে স্ক্রিনশট নেওয়ার অনুমতি দিন (যেমন: ব্যাংকিং অ্যাপ, একবার দেখা মিডিয়া)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"আপনি ই-সিম মুছতে চান কিনা তা কনফার্ম করুন"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"ই-সিম মুছে ফেলার আগে নিজের পরিচয় যাচাই করুন"</string>
     <string name="memtag_title" msgid="5096176296797727201">"\'উন্নত মেমরি সুরক্ষা\' বিটা"</string>

@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"고정 해제 이전에 PIN 요청"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"고정 해제 이전에 비밀번호 요청"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"고정 해제 시 기기 잠금"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">스크린샷 강제 허용</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">일반적으로 스크린샷을 차단하는 앱(예: 은행 앱, 한 번 보는 미디어)에서 스크린샷 허용</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"eSIM 삭제 의사를 확인합니다."</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM을 삭제하기 전에 본인 확인 진행"</string>
     <string name="memtag_title" msgid="5096176296797727201">"고급 메모리 보호 베타"</string>

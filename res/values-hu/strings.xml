@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"PIN-kód kérése a kitűzés megszüntetéséhez"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Jelszó kérése a rögzítés feloldásához"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Eszköz zárolása a rögzítés feloldásakor"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Képernyőképek kényszerített engedélyezése</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Képernyőképek engedélyezése olyan alkalmazásokban, amelyek általában blokkolják azokat (pl. banki alkalmazások, egyszeri megtekintésű média)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Erősítse meg, hogy törölni szeretné az eSIM-et"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Az eSIM törlése előtt igazolnia kell személyazonosságát"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Speciális memóriavédelem (béta)"</string>

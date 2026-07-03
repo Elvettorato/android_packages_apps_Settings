@@ -4340,6 +4340,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"درخواست کد پین قبل از برداشتن پین"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"درخواست گذرواژه قبل از برداشتن سنجاق"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"قفل کردن دستگاه هنگام برداشتن سنجاق"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">اجباری کردن اجازه اسکرین‌شات</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">اجازه اسکرین‌شات در برنامه‌هایی که معمولاً آن را مسدود می‌کنند (مانند برنامه‌های بانکی، رسانه‌های یک‌بار مشاهده)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"تأیید کنید که می‌خواهید سیم‌کارت داخلی‌تان پاک شود"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"به‌تأیید رساندن هویت پیش‌از پاک کردن سیم‌کارت داخلی"</string>
     <string name="memtag_title" msgid="5096176296797727201">"محافظت از حافظه پیشرفته نسخه بتا"</string>

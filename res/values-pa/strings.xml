@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"ਅਨਪਿੰਨ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਪਿੰਨ ਮੰਗੋ"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"ਅਣਪਿੰਨ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਪਾਸਵਰਡ ਮੰਗੋ"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"ਅਣਪਿੰਨ ਕਰਨ ਵੇਲੇ ਡੀਵਾਈਸ ਲਾਕ ਕਰੋ"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">ਸਕ੍ਰੀਨਸ਼ਾਟ ਨੂੰ ਜ਼ਬਰਦਸਤੀ ਇਜਾਜ਼ਤ ਦਿਓ</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">ਉਹਨਾਂ ਐਪਾਂ ਵਿੱਚ ਸਕ੍ਰੀਨਸ਼ਾਟ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ ਜੋ ਆਮ ਤੌਰ 'ਤੇ ਉਹਨਾਂ ਨੂੰ ਬਲੌਕ ਕਰਦੀਆਂ ਹਨ (ਜਿਵੇਂ ਕਿ ਬੈਂਕਿੰਗ ਐਪਾਂ, ਇੱਕ ਵਾਰ ਦੇਖਣ ਵਾਲਾ ਮੀਡੀਆ)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"ਤਸਦੀਕ ਕਰੋ ਕਿ ਤੁਸੀਂ ਆਪਣਾ ਈ-ਸਿਮ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"ਈ-ਸਿਮ ਨੂੰ ਮਿਟਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ"</string>
     <string name="memtag_title" msgid="5096176296797727201">"ਅਡਵਾਂਸ ਮੈਮੋਰੀ ਸੁਰੱਖਿਆ ਬੀਟਾ"</string>

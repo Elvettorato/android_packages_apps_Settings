@@ -10603,6 +10603,11 @@
     <!-- [CHAR LIMIT=60] Unlock setting for screen pinning -->
     <string name="screen_pinning_unlock_none">Lock device when unpinning</string>
 
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Force allow screenshots</string>
+    <!-- Summary for force allow screenshots [CHAR LIMIT=150] -->
+    <string name="disable_security_flag_summary">Allow screenshots in apps that normally block them (e.g. banking apps, view-once media)</string>
+
     <!-- [CHAR LIMIT=60] turn eSim deletion confirmation on/off  -->
     <string name="confirm_sim_deletion_title">Confirm you want to erase your eSIM</string>
     <!-- [CHAR LIMIT=NONE] eSim deletion confirmation description  -->

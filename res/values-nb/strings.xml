@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Krev PIN-kode for å løsne app"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Krev passord for å løsne apper"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Lås enheten når apper løsnes"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Tving tillatelse til skjermbilder</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Tillat skjermbilder i apper som normalt blokkerer dem (f.eks. bankapper, engangsvisingsmedier)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Bekreft at du vil slette eSIM-kortet ditt"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Bekreft at du er deg, før du sletter et eSIM-kort"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Beta, avansert minnebeskyttelse"</string>

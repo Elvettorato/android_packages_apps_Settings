@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Yechishda PIN kod talab qilinsin"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Yechishdan oldin parol so‘ralsin"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Funksiya faolsizlantirilganda qurilmani qulflash"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Skrinshotlarga majburan ruxsat berish</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Odatda skrinshotlarni bloklaydigan ilovalarda (masalan, bank ilovalari, bir marta ko'rish mediasi) skrinshotlarga ruxsat berish</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"eSIM karta tozalanishini tasdiqlang"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM kartani oʻchirishdan oldin shaxsingizni tasdiqlang"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Kuchaytirilgan xotira himoyasi beta"</string>

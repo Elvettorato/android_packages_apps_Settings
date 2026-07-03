@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"அகற்றும் முன் பின்(PIN) எண்ணைக் கேள்"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"அகற்றும் முன் கடவுச்சொல்லைக் கேள்"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"பின் செய்ததை நீக்கும்போது சாதனத்தைப் பூட்டு"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">ஸ்கிரீன்ஷாட்டுகளை கட்டாயமாக அனுமதி</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">பொதுவாக ஸ்கிரீன்ஷாட்டுகளைத் தடுக்கும் பயன்பாடுகளில் (எ.கா. வங்கி பயன்பாடுகள், ஒருமுறை பார்க்கும் ஊடகம்) ஸ்கிரீன்ஷாட்டுகளை அனுமதி</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"உங்கள் eSIMமை அழிக்க விரும்புவதை உறுதிப்படுத்துங்கள்"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIMமை அழிப்பதற்கு முன்பு இது நீங்கள்தான் என்பதைச் சரிபார்க்கும்"</string>
     <string name="memtag_title" msgid="5096176296797727201">"மேம்பட்ட சாதன பாதுகாப்பு பீட்டா"</string>

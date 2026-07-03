@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"取消固定前要求输入 PIN 码"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"取消固定屏幕前要求输入密码"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"取消固定时锁定设备"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">强制允许截屏</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">在通常阻止截屏的应用中允许截屏（例如银行应用、阅后即焚媒体）</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"确认您想清除您的 eSIM 卡"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"先验证是您本人在操作，然后才能清空 eSIM 卡"</string>
     <string name="memtag_title" msgid="5096176296797727201">"高级内存保护 Beta 版"</string>

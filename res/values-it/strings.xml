@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Richiedi il PIN per lo sblocco"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Richiedi password prima di sbloccare"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Blocca dispositivo dopo lo sblocco app"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Forza consenso screenshot</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Consenti screenshot in app che normalmente li bloccano (es. app bancarie, contenuti visualizzabili una sola volta)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Conferma che vuoi resettare la tua eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Verifica la tua identità prima di resettare una eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Protezione avanzata della memoria beta"</string>

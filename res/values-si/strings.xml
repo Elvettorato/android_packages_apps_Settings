@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"ගැලවීමට පෙර PIN විමසන්න"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"ගැලවීමට පෙර මුරපදය විමසන්න"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"ගැලවීමට උපාංගය අගුළු දමා ඇත"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">තිර සටහන් බල කර ඉඩ දෙන්න</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">සාමාන්‍යයෙන් තිර සටහන් අවහිර කරන යෙදුම්වල (උදා. බැංකු යෙදුම්, එක් වරක් බැලීමේ මාධ්‍ය) තිර සටහන් වලට ඉඩ දෙන්න</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"ඔබට ඔබේ eSIM එක මැකීමට අවශ්‍ය බව තහවුරු කරන්න"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM එකක් මැකීමට පෙර ඒ ඔබ බව සත්‍යාපනය කරන්න"</string>
     <string name="memtag_title" msgid="5096176296797727201">"උසස් මතක ආරක්ෂණය බීටා"</string>

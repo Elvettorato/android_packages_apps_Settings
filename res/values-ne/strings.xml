@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"अनपिन गर्नुअघि PIN मागियोस्"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"पिन निकाल्नुअघि पासवर्ड सोध्नुहोस्"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"अनपिन गर्दा डिभाइस लक गर्नुहोस्"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">स्क्रिनसटहरू जबरजस्ती अनुमति दिनुहोस्</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">सामान्यतया स्क्रिनसटहरू ब्लक गर्ने एपहरूमा (जस्तै बैंकिङ एपहरू, एक पटक हेर्ने मिडिया) स्क्रिनसटहरू अनुमति दिनुहोस्</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"तपाईं आफ्नो eSIM मेटाउन चाहनुहुन्छ भन्ने कुरा सुनिश्चित गर्नुहोस्"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM मेटाउनुअघि आफ्नो पहिचान पुष्टि गर्नुहोस्"</string>
     <string name="memtag_title" msgid="5096176296797727201">"मेमोरीको सुरक्षा गर्ने उन्नत सुविधाको बिटा संस्करण"</string>

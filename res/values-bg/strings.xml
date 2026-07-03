@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"ПИН код преди освобождаване"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Запитване за парола преди освобождаване"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Заключване на устройството при освобождаване"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Принудително разрешаване на екранни снимки</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Разрешаване на екранни снимки в приложения, които обикновено ги блокират (напр. банкови приложения, медия за еднократен преглед)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Потвърдете, че искате да изтриете електронната си SIM карта"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Потвърдете самоличността си, преди да изтриете електронна SIM карта"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Разшир. защита на паметта (бета)"</string>

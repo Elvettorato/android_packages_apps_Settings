@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"សួរ​រក​កូដ PIN មុន​ពេលដកខ្ទាស់"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"សួរ​រក​ពាក្យ​សម្ងាត់​មុន​ពេល​ផ្ដាច់"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"ចាក់​សោ​ឧបករណ៍​ពេល​មិន​ខ្ទាស់"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">បង្ខំឱ្យអនុញ្ញាតថតអេក្រង់</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">អនុញ្ញាតឱ្យថតអេក្រង់នៅក្នុងកម្មវិធីដែលជាធម្មតារារាំងពួកវា (ឧ. កម្មវិធីធនាគារ, មេឌៀមើលម្តង)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"បញ្ជាក់ថាអ្នកចង់លុប eSIM របស់អ្នក"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"ផ្ទៀងផ្ទាត់ថាជាអ្នក មុនពេលលុប eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"បេតាការពារអង្គចងចាំកម្រិតខ្ពស់"</string>

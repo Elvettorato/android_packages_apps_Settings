@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"​ຖາມ​ຫາ PIN ກ່ອນ​ຍົກ​ເລີກ​ການປັກ​ໝຸດ"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"​ຖາມ​ຫາ​ລະ​ຫັດ​ຜ່ານ​ກ່ອນ​ຍົກ​ເລີກ​ການ​ປັກ​ໝຸດ"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"ລັອກ​ອຸ​ປະ​ກອນ​ເມື່ອ​ຍົກ​ເລີກ​ການ​ປັກ​ໝຸດ"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">ບັງຄັບໃຫ້ອະນຸຍາດພາບໜ້າຈໍ</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">ອະນຸຍາດໃຫ້ພາບໜ້າຈໍໃນແອັບທີ່ປົກກະຕິສະກັດພວກມັນ (ເຊັ່ນ: ແອັບທະນາຄານ, ສື່ທີ່ເບິ່ງຄັ້ງດຽວ)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"ຢືນຢັນວ່າທ່ານຕ້ອງການລຶບ eSIM ຂອງທ່ານ"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"ຢັ້ງຢືນວ່າແມ່ນທ່ານກ່ອນທີ່ຈະລຶບ eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"ການປ້ອງກັນໜ່ວຍຄວາມຈຳຂັ້ນສູງເວີຊັນເບຕ້າ"</string>

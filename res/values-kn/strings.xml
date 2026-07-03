@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"ಅನ್‌ಪಿನ್‌ ಮಾಡಲು ಪಿನ್‌ ಕೇಳಿ"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"ಅನ್‌ಪಿನ್ ಮಾಡಲು ಪಾಸ್‌ವರ್ಡ್ ಕೇಳು"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"ಅನ್‌ಪಿನ್ ಮಾಡುವಾಗ ಸಾಧನ ಲಾಕ್ ಮಾಡು"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">ಸ್ಕ್ರೀನ್‌ಶಾಟ್‌ಗಳನ್ನು ಬಲವಂತವಾಗಿ ಅನುಮತಿಸಿ</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">ಸಾಮಾನ್ಯವಾಗಿ ಸ್ಕ್ರೀನ್‌ಶಾಟ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸುವ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಲ್ಲಿ (ಉದಾ. ಬ್ಯಾಂಕಿಂಗ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು, ಒಂದು ಬಾರಿ ವೀಕ್ಷಿಸುವ ಮಾಧ್ಯಮ) ಸ್ಕ್ರೀನ್‌ಶಾಟ್‌ಗಳನ್ನು ಅನುಮತಿಸಿ</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"ನಿಮ್ಮ eSIM ಅನ್ನು ಅಳಿಸಲು ನೀವು ಬಯಸುತ್ತೀರಿ ಎಂಬುದನ್ನು ದೃಢೀಕರಿಸಿ"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM ಅನ್ನು ಅಳಿಸುವ ಮೊದಲು ಇದು ನೀವೇ ಎಂದು ದೃಢೀಕರಿಸಿ"</string>
     <string name="memtag_title" msgid="5096176296797727201">"ಸುಧಾರಿತ ಮೆಮೊರಿ ರಕ್ಷಣೆ ಬೀಟಾ"</string>

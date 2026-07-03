@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Побарај PIN пред откачување"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Побарај лозинка пред откачување"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Заклучи го уредот при откачување"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Присилно дозволи слики од екран</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Дозволи слики од екран во апликации кои обично ги блокираат (на пр. банкарски апликации, медиуми за еднократно гледање)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Потврдете дека сакате да ја избришете eSIM-картичката"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Потврдете дека сте вие пред да избришете eSIM-картичка"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Бета-напредна заштита на меморијата"</string>

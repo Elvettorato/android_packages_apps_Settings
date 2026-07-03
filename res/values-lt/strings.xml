@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Prašyti PIN kodo prieš atsegant"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Prašyti slaptažodžio prieš atsegant"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Užrakinti įrenginį atsegant"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Priverstinai leisti ekrano kopijas</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Leisti ekrano kopijas programose, kurios paprastai jas blokuoja (pvz., bankininkystės programos, vieną kartą žiūrima medija)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Patvirtinkite, kad norite ištrinti „eSIM“ kortelę"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Prieš ištrindami „eSIM“ kortelę patvirtinkite savo tapatybę"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Beta versijos išplėstinė atminties apsauga"</string>

@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Bed om pinkode inden frigørelse"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Bed om adgangskode inden frigørelse"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Lås enheden ved frigørelse"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Tving skærmbilleder til at være tilladt</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Tillad skærmbilleder i apps, der normalt blokerer dem (f.eks. bankapps, engangsmedier)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Bekræft, at du vil slette dit eSIM-kort"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Verificer din identitet, inden du rydder et eSIM-kort"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Avanceret beskyttelse af hukommelsen (beta)"</string>

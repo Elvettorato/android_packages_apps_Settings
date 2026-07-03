@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Запытваць PIN-код перад адмацаваннем"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Запытваць пароль перад адмацаваннем"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Заблакіраваць прыладу падчас адмацавання"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Прымусова дазволіць здымкі экрана</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Дазволіць здымкі экрана ў праграмах, якія звычайна іх блакуюць (напрыклад, банкаўскія праграмы, медыяфайлы для аднаразовага прагляду)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Пацвердзіце выдаленне eSIM-карты"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Перш чым сціраць eSIM-карту, пацвердзіце, што гэта вы"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Пашыраная абарона памяці (бэта)"</string>

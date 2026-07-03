@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Vraag pin voor losmaken"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Vraag wachtwoord voor losmaken"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Apparaat vergrendelen wanneer items worden losgemaakt"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Screenshots forceren</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Screenshots toestaan in apps die ze normaal blokkeren (bijv. bankapps, eenmalig te bekijken media)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Bevestig dat je de e-simkaart wilt wissen"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Bevestig dat jij het bent voordat een e-simkaart wordt gewist"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Geavanceerde geheugenbescherming (bèta)"</string>

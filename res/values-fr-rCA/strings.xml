@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Demander le NIP avant d\'annuler l\'épinglage"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Demander le mot de passe avant d\'annuler l\'épinglage"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Verrouiller l\'appareil après l\'annulation de l\'épinglage"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Forcer l'autorisation des captures d'écran</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Autoriser les captures d'écran dans les applications qui les bloquent normalement (ex. : applications bancaires, contenu à vision unique)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Confirmer que vous souhaitez effacer votre carte eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Vérifiez qu\'il s\'agit bien de vous avant d\'effacer la carte eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Protection mémoire avancée bêta"</string>

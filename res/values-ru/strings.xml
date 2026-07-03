@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Запрашивать PIN-код"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Запрашивать пароль"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Блокировать устройство при отключении функции"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Принудительно разрешить снимки экрана</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Разрешить снимки экрана в приложениях, которые обычно их блокируют (например, банковские приложения, контент для однократного просмотра)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Подтвердите удаление eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Запрашивать подтверждение личности перед удалением eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Расширенная защита памяти (бета)"</string>

@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"取消固定時必須輸入 PIN"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"取消固定時必須輸入密碼"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"取消固定時鎖定裝置"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">強制允許截圖</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">在通常阻止截圖的應用程式中允許截圖（例如銀行應用程式、僅限一次性檢視的媒體）</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"確認你要清除 eSIM 卡"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"如要清除 eSIM 卡，請先驗證你的身分"</string>
     <string name="memtag_title" msgid="5096176296797727201">"進階記憶體保護功能 Beta 版本"</string>

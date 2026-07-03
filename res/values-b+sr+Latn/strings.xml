@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Traži PIN pre otkačinjanja"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Traži lozinku pre otkačinjanja"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Zaključaj uređaj pri otkačinjanju"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Prisilno dozvoli snimke ekrana</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Dozvoli snimke ekrana u aplikacijama koje ih inače blokiraju (npr. bankarske aplikacije, mediji za jednokratno gledanje)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Potvrdite da želite da obrišete eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Potvrdite da ste to vi pre brisanja eSIM-a"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Napredna zaštita memorije beta"</string>

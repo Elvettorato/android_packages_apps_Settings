@@ -136,7 +136,16 @@
     <PreferenceCategory
         android:order="200"
         android:key="security_category"
-        android:title="@string/security_header" />
+        android:title="@string/security_header">
+
+        <SwitchPreferenceCompat
+            android:key="disable_security_flag"
+            android:title="@string/disable_security_flag_title"
+            android:summary="@string/disable_security_flag_summary"
+            settings:controller=
+                "com.android.settings.safetycenter.DisableSecurityFlagPreferenceController" />
+
+    </PreferenceCategory>
 
     <Preference
         android:order="230"

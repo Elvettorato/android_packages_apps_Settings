@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Zahtevaj PIN pred odpenjanjem"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Pred odpenjanjem vprašaj za geslo"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Pri odpenjanju zakleni napravo"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Vsili dovoljenje za posnetke zaslona</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Dovoli posnetke zaslona v aplikacijah, ki jih običajno blokirajo (npr. bančne aplikacije, mediji za enkraten ogled)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Potrdite, da želite izbrisati kartico e-SIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Pred izbrisom kartice e-SIM potrdite, da ste to res vi."</string>
     <string name="memtag_title" msgid="5096176296797727201">"Napredna zaščita pomnilnika – beta"</string>

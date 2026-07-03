@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Eskatu PINa aingura kendu aurretik"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Eskatu pasahitza aingura kendu aurretik"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Blokeatu gailua aingura kentzean"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Behartu pantaila-argazkiak baimentzea</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Baimendu pantaila-argazkiak normalean blokeatzen dituzten aplikazioetan (adibidez, banku-aplikazioak, behin ikusteko multimedia)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Berretsi eSIMa ezabatu nahi duzula"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM bateko eduki guztia ezabatu aurretik, egiaztatu zeu zarela"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Memoriaren babes aurreratua (beta)"</string>

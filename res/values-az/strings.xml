@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Ayırmadan öncə PIN istənilsin"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Ayırmadan öncə parol istənilsin"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Bərkidilmə ləğv ediləndə cihaz kilidlənsin"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Ekran görüntülərinə məcburi icazə ver</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Normalda ekran görüntülərini bloklayan tətbiqlərdə (məsələn, bank tətbiqləri, bir dəfə görülən media) ekran görüntülərinə icazə ver</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"eSIM-i silmək istədiyinizi təsdiq edin"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM\'i silməzdən əvvəl kimliyinizi doğrulayın"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Qabaqcıl yaddaş qorunması beta"</string>

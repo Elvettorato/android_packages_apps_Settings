@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Prasīt PIN kodu pirms atspraušanas"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Pirms atspraušanas pieprasīt paroli"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Bloķēt ierīci, kad tiek veikta atspraušana"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Piespiedu kārtā atļaut ekrānuzņēmumus</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Atļaut ekrānuzņēmumus lietotnēs, kas parasti tos bloķē (piem., banku lietotnes, vienreiz apskatāms saturs)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Apstipriniet, ka vēlaties dzēst savu eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Pirms eSIM kartes dzēšanas apstipriniet savu identitāti."</string>
     <string name="memtag_title" msgid="5096176296797727201">"Uzlab. atmiņas aizsardz. beta v."</string>

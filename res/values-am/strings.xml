@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"ከመንቀል በፊት ፒን ጠይቅ"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"ከመንቀል በፊት የይለፍ ቃል ጠይቅ"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"ሲነቀል መሣሪያ ቆልፍ"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">ስክሪን ሾት እንዲወሰዱ አስገድድ</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">ስክሪን ሾት በመደበኛነት በሚከለክሉ መተግበሪያዎች ውስጥ ፍቀድ (ለምሳሌ የባንክ መተግበሪያዎች፣ አንድ ጊዜ የሚታዩ ሚዲያ)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"ኢሲምዎን መሰረዝ እንደሚፈልጉ ያረጋግጡ"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"አንድ ኢሲምን ከመደምሰስዎ በፊት እርስዎ መሆንዎን ያረጋግጡ"</string>
     <string name="memtag_title" msgid="5096176296797727201">"የላቀ የማህደረ ትውስታ ጥበቃ ቅድመ ይሁንታ"</string>

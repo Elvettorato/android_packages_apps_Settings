@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Να ζητείται το PIN πριν από το ξεκαρφίτσωμα"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Να ζητείται κωδικός πρόσβασης πριν από το ξεκαρφίτσωμα"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Κλείδωμα της συσκευής κατά το ξεκαρφίτσωμα"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Εξαναγκασμός λήψης στιγμιότυπων οθόνης</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Να επιτρέπονται στιγμιότυπα οθόνης σε εφαρμογές που συνήθως τα αποκλείουν (π.χ. τραπεζικές εφαρμογές, πολυμέσα μίας προβολής)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Επιβεβαιώστε ότι θέλετε να διαγράψετε την eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Επαληθεύστε την ταυτότητά σας πριν από τη διαγραφή μιας eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Advanced memory protection beta"</string>

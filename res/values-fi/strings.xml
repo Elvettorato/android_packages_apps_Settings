@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Pyydä PIN ennen irrotusta"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Pyydä salasana ennen irrotusta"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Lukitse laite irrotuksen aikana"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Pakota näyttökuvien salliminen</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Salli näyttökuvat sovelluksissa, jotka yleensä estävät ne (esim. pankkisovellukset, kertakatselumedia)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Vahvista eSIMin poisto"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Vahvista henkilöllisyys ennen eSIMin poistamista"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Muistin lisäsuojauksen beta"</string>

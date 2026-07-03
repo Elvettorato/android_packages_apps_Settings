@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Biðja um PIN-númer til að losa"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Biðja um aðgangsorð til að losa"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Læsa tækinu við losun"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Þvinga leyfi á skjámyndir</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Leyfa skjámyndir í forritum sem venjulega loka á þær (t.d. bankaforrit, efni sem er aðeins skoðað einu sinni)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Staðfestu að þú viljir eyða eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Staðfestu að þetta sért þú áður en þú eyðir eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Ítarleg minnisvernd – beta"</string>

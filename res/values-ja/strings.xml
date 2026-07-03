@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"画面固定の解除前にPINを要求"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"画面固定の解除前にパスワードを要求"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"アプリ固定の解除時にデバイスをロック"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">スクリーンショットを強制許可</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">通常スクリーンショットをブロックするアプリ（例：銀行アプリ、1回限りのメディア）でもスクリーンショットを許可</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"eSIM の消去を確定します"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM を消去する前に本人確認を行う"</string>
     <string name="memtag_title" msgid="5096176296797727201">"高度なメモリ保護（ベータ版）"</string>

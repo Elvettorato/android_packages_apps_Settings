@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Minta PIN sebelum nyahsemat"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Minta kata laluan sebelum menyahsemat"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Kunci peranti semasa menyahsemat"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Paksa benarkan tangkapan skrin</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Benarkan tangkapan skrin dalam aplikasi yang biasanya menyekatnya (cth. aplikasi perbankan, media lihat-sekali)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Sahkan bahawa anda mahu memadamkan eSIM anda"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Sahkan identiti anda sebelum memadamkan eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Beta perlindungan memori Lanjutan"</string>

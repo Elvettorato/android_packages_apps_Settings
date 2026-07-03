@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Před uvolněním požádat o PIN"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Před odepnutím požádat o heslo"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Při odepnutí uzamknout zařízení"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Vynutit povolení snímků obrazovky</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Povolit snímky obrazovky v aplikacích, které je obvykle blokují (např. bankovní aplikace, média pro jednorázové zobrazení)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Potvrďte, že chcete vymazat eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Před vymazáním eSIM karty ověřovat svoji totožnost"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Pokročilá ochrana paměti beta"</string>

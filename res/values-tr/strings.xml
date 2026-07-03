@@ -4338,6 +4338,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Sabitlemeyi kaldırmadan önce PIN\'i sor"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Sabitlemeyi kaldırmadan önce şifre sor"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Sabitlemeyi kaldırırken cihazı kilitle"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Ekran görüntülerine zorla izin ver</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Normalde ekran görüntülerini engelleyen uygulamalarda (ör. bankacılık uygulamaları, tek seferlik medya) ekran görüntülerine izin ver</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"eSIM\'inizi silmek istediğinizi onaylayın"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIM\'i silmeden önce siz olduğunuzu doğrulayın"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Gelişmiş bellek koruması beta"</string>

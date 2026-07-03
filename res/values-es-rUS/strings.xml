@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Solicitar PIN para quitar fijación"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Solicitar contraseña para quitar fijación"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Bloquear dispositivo al quitar fijación"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Forzar permitir capturas de pantalla</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Permitir capturas de pantalla en aplicaciones que normalmente las bloquean (p. ej. apps bancarias, contenido de una sola vista)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Confirma que quieres borrar tu eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Verifica tu identidad antes de borrar una eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Protección de mem. avanzada beta"</string>

@@ -4339,6 +4339,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Pedir PIN antes de soltar a fixación"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Pedir contrasinal antes de soltar a fixación"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Bloquear dispositivo ao deixar de fixar a aplicación"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Forzar permitir capturas de pantalla</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Permitir capturas de pantalla en aplicacións que normalmente as bloquean (p. ex. aplicacións bancarias, multimedia de vista única)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Confirma que queres borrar a eSIM"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Verifica a túa identidade antes de borrar unha eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Protección de memoria avanzada"</string>

@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Enne vabastamist küsi PIN-koodi"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Enne vabastamist küsi parooli"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Vabastamise korral lukusta seade"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Sundige ekraanipilte lubama</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Luba ekraanipildid rakendustes, mis tavaliselt need blokeerivad (nt pangarakendused, ühekordselt vaadatav meedia)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Kinnitage, et soovite oma eSIM-i kustutada"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Enne eSIM-i kustutamist kinnitage oma isik"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Täiustatud mälukaitse (beeta)"</string>

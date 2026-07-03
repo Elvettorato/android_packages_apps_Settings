@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Бэхэлснийг болиулахаасаа өмнө ПИН асуух"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Тогтоосныг суллахаас өмнө нууц үг асуух"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Бэхэлснийг болиулах үед төхөөрөмжийг түгжинэ"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Дэлгэцийн агшинг албадах</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Дэлгэцийн агшинг ихэвчлэн блоклодог аппуудад (жишээ нь, банкны аппууд, нэг удаа үзэх медиа) зөвшөөрөх</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Та eSIM-ээ устгахыг хүсэж байгаагаа баталгаажуулна уу"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Та eSIM-г устгахаасаа өмнө өөрийгөө мөн болохыг баталгаажуулна уу"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Санах ойн дэвшилтэт хамгаалалтын бета"</string>

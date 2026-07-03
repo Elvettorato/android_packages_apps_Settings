@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Hỏi mã PIN trước khi bỏ ghim"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Hỏi mật khẩu trước khi bỏ khóa màn hình"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Khóa thiết bị khi bỏ ghim"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Buộc cho phép chụp màn hình</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Cho phép chụp màn hình trong các ứng dụng thường chặn chúng (ví dụ: ứng dụng ngân hàng, phương tiện xem một lần)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Xác nhận rằng bạn muốn xoá eSIM của mình"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Xác minh danh tính của bạn trước khi xoá eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Chế độ Bảo vệ bộ nhớ nâng cao (thử nghiệm)"</string>

@@ -4340,6 +4340,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Cela iphinikhodi ngaphambi kokuphina"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Cela iphasiwedi ngaphambi kokususa ukuphina"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Khiya idivayisi uma ususa ukuphina"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Phoqelela ukuthi izithombe-skrini zivunyelwe</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Vumela izithombe-skrini kuzinhlelo zokusebenza eziphatha ngokujwayelekile ukuzivimba (isb. izinhlelo zasebhange, imidiya yokubuka kanye)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Qinisekisa ukuthi ufuna ukusula i-eSIM yakho"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Qinisekisa ukuthi nguwe ngaphambi kokusula i-eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"I-beta yokuvikela inkumbulo ethuthukisiwe"</string>

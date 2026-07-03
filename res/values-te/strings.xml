@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"అన్‌పిన్ చేయడానికి ముందు పిన్‌ను అడుగు"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"అన్‌పిన్ చేయడానికి ముందు పాస్‌వర్డ్ కోసం అడుగు"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"అన్‌పిన్ చేస్తున్నప్పుడు డివైజ్‌ను లాక్ చేయండి"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">స్క్రీన్‌షాట్‌లను బలవంతంగా అనుమతించు</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">సాధారణంగా స్క్రీన్‌షాట్‌లను బ్లాక్ చేసే యాప్‌లలో (ఉదా. బ్యాంకింగ్ యాప్‌లు, ఒకసారి చూడగల మీడియా) స్క్రీన్‌షాట్‌లను అనుమతించు</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"మీరు మీ eSIMను తొలగించాలనుకుంటున్నారని నిర్ధారించండి"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"eSIMను ఫ్యాక్టరీ రీసెట్ చేసే ముందు ఇది మీరేనని వెరిఫై చేయండి"</string>
     <string name="memtag_title" msgid="5096176296797727201">"అధునాతన మెమరీ రక్షణ బీటా"</string>

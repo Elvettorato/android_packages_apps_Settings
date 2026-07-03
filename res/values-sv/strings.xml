@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"Be om pinkod innan appen lossas"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"Be om lösenord innan skärmen lossas"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"Lås enheten när skärmen lossas"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">Tvinga tillåtelse av skärmbilder</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">Tillåt skärmbilder i appar som normalt blockerar dem (t.ex. bankappar, engångsvisningsmedia)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"Bekräfta att du vill rensa dina SIM-kort"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"Verifiera din identitet innan du raderar ett eSIM"</string>
     <string name="memtag_title" msgid="5096176296797727201">"Avancerat minnesskydd i beta"</string>

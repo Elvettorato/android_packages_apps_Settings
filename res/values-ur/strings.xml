@@ -4337,6 +4337,11 @@
     <string name="screen_pinning_unlock_pin" msgid="8716638956097417023">"‏پن ہٹانے سے پہلے PIN طلب کریں"</string>
     <string name="screen_pinning_unlock_password" msgid="4957969621904790573">"پن ہٹانے سے پہلے پاس ورڈ طلب کریں"</string>
     <string name="screen_pinning_unlock_none" msgid="2474959642431856316">"پن ہٹاتے وقت آلہ کو مقفل کریں"</string>
+    <!-- Security flag bypass: Allow screenshots in apps that block them -->
+    <string name="disable_security_flag_title">اسکرین شاٹس کو زبردستی اجازت دیں</string>
+    <!-- Summary for force allow screenshots -->
+    <string name="disable_security_flag_summary">ایپس میں اسکرین شاٹس کی اجازت دیں جو عام طور پر انہیں بلاک کرتی ہیں (مثلاً بینکنگ ایپس، ایک بار دیکھنے والا میڈیا)</string>
+
     <string name="confirm_sim_deletion_title" msgid="7262127071183428893">"‏تصدیق کریں کہ آپ اپنے eSIM کو مٹانا چاہتے ہیں"</string>
     <string name="confirm_sim_deletion_description" msgid="4439657901673639063">"‏eSIM کو مٹانے سے پہلے توثیق کریں کہ یہ آپ ہی ہیں"</string>
     <string name="memtag_title" msgid="5096176296797727201">"اعلی میموری پروٹیکشن بی ٹا"</string>
